@@ -1,0 +1,5 @@
+My name is Sai Lohith.
+I am a CSE student at NIT Trichy.
+I enjoy solving DSA problems.
+I am learning Git deeply.
+I want to become a strong software engineer.
